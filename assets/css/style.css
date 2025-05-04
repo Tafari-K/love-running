@@ -172,6 +172,15 @@ hr {
     justify-content: center;
 }
 
+#times{
+    background: url("../images/dublin-city.webp") no-repeat top center / cover;
+    /* Handles responsivity without the need for media query */
+    display: flex;
+    flex-wrap: wrap;
+        
+}
+
+
 /* Footer */
  #social-networks{
     text-align: center;
